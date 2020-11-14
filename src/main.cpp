@@ -1,4 +1,6 @@
 #include<iostream>
+#include "piece.hpp"
+#include "checkboard.hpp"
 
 main()
 {
